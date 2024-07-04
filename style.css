@@ -83,21 +83,3 @@ img.center {
 img.trans {
     opacity: 0.3;
 }
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-    background-color: #FFFFFF;
-}
-
-td {
-    border: 1px solid black;
-    padding: 5px;
-}
-
-.entry {
-    min-width: 20px;
-    max-width: 20px;
-    cursor: pointer;
-    text-align: center;
-}
